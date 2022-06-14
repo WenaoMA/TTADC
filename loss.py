@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Author  : LG
+# @Author  : wama
 from torch import nn
 import torch
 from torch.nn import functional as F
