@@ -1,4 +1,4 @@
-# Preparing
+# Implement TTADC on a public available dataset
 
 #### 1. Access to the iCTCF dataset: https://ngdc.cncb.ac.cn/ictcf/HUST-19.php
 #### 2. Use the methods illustrated in [1] to preprocess the data.
