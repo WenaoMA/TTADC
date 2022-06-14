@@ -1,13 +1,12 @@
 # Data Preparing
 
-## Access to the iCTCF dataset: https://ngdc.cncb.ac.cn/ictcf/HUST-19.php
-## Use the methods illustrated in [1] to preprocess the data.
+1. Access to the iCTCF dataset: https://ngdc.cncb.ac.cn/ictcf/HUST-19.php
+2. Use the methods illustrated in [1] to preprocess the data.
 
 [1] Bao, G., Chen, H., Liu, T., Gong, G., Yin, Y., Wang, L., Wang, X.: Covid-mtl: Multitask learning with shift3d and random-weighted loss for covid-19 diagnosis and severity assessment. Pattern Recognition 124, 108499 (2022) 6
 
-## Sort out the data and code:
+3. Sort out the data and code:
 ```bash
-.
 ├── code
 │   ├──datasets
 │   │       └── dataset_*.py
@@ -26,9 +25,9 @@
             └── *.npy.h5
 ```
 
-## Run python train.py
+4. Run python train.py
 
-## The used packages:
+5. The used packages:
 Package                Version
 ---------------------- -------------------
 h5py                   3.1.0
