@@ -28,7 +28,7 @@
 
 #### 4. Training
 ```bash 
-Run python train.py
+python train.py
 ```
 
 #### 5. The used packages:
