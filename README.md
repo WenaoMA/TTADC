@@ -26,7 +26,7 @@
             └── *.npy.h5
 ```
 
-#### 4. Run python train.py
+#### ```bash 4. Run python train.py```
 
 #### 5. The used packages:
 ```bash
