@@ -7,6 +7,7 @@
 
 #### 3. Sort out the data and code:
 ```bash
+.
 ├── code
 │   ├──datasets
 │   │       └── dataset_*.py
@@ -28,6 +29,7 @@
 #### 4. Run python train.py
 
 #### 5. The used packages:
+```bash
 Package                Version
 ---------------------- -------------------
 h5py                   3.1.0
@@ -38,6 +40,7 @@ SimpleITK              1.2.4
 sklearn                0.0
 torch                  1.6.0
 torchvision            0.7.0
+```
 
 
 
