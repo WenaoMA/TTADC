@@ -36,13 +36,13 @@ python train.py
 Package                Version
 ---------------------- -------------------
 h5py                   3.1.0
-numpy                  1.19.5
-opencv-python          3.4.0.12
+numpy                  1.15.4
+opencv-python          4.5.2.52
 pandas                 1.1.5
-SimpleITK              1.2.4
-sklearn                0.0
-torch                  1.6.0
-torchvision            0.7.0
+SimpleITK              2.0.2
+Scikit-learn           0.24.2
+torch                  1.4.0
+torchvision            0.5.0
 ```
 
 
